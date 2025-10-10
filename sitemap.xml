@@ -7,7 +7,7 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://glasslab-io.netlify.app/icon.png</image:loc>
+      <image:loc>https://glasslab-io.netlify.app/logo.png</image:loc>
       <image:title>GlassLab Preview</image:title>
       <image:caption>Glassmorphism and Neumorphism Generator Interface</image:caption>
     </image:image>

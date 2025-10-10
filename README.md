@@ -1,7 +1,7 @@
 # 🔮 GlassLab - Glassmorphism & Neumorphism Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-SITE-ID/deploy-status)](https://app.netlify.com/sites/glasslab-io/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/294cfb38-7b22-46f5-b55d-c54aba86dc94/deploy-status)](https://app.netlify.com/projects/glasslab-io/deploys)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -16,7 +16,7 @@
 
 ## 📸 Preview
 
-![GlassLab Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=GlassLab+Preview+Screenshot)
+![GlassLab Preview](/screenshot-desktop.jpg)
 
 ---
 
